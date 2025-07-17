@@ -40,5 +40,10 @@ Users can browse hotels, book rooms, and manage bookings with a clean and respon
 ```bash
 git clone https://github.com/Sammy4547/hotel-booking-Next-Js.git
 npm i
+```
+## 2 Add a .env file in the root folder in which add your DATABASE_URL in the env file
+```bash
+DATABASE_URL="postgresql://postgres:password@localhost:5432/hotelbooking"
+```
 
 

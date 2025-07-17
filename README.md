@@ -38,6 +38,7 @@ Users can browse hotels, book rooms, and manage bookings with a clean and respon
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hotel-booking-app.git
-cd hotel-booking-app
+git clone https://github.com/Sammy4547/hotel-booking-Next-Js.git
+npm i
+
 
